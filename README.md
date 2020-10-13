@@ -12,11 +12,11 @@ Apart from my research journey as a machine learning PhD student at University o
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
 - I'm working on writing more on things related to data science [https://iqra.hashnode.dev/](https://iqra.hashnode.dev/)
 - 💬 Ask me about Machine Learning and Data Science.
-- ⚡ Fun fact: I love eating muffins and I love trying different kinds of tea. 
-- 📫 How to reach me: Email (iqra.muhammad@liverpool.ac.uk), [@giki_bla](https://twitter.com/giki_bla),
+- ⚡ Fun fact: I love eating muffins and trying different kinds of tea. 
+- 📫 How to reach me: Email (iqra.muhammad@liverpool.ac.uk), Twitter: [@giki_bla](https://twitter.com/giki_bla).
 --------------
 
-- Read my technical articles on [hashnode](https://iqra.hashnode.dev/)
+- Read my technical articles on [https://iqra.hashnode.dev/](https://iqra.hashnode.dev/)
 
 
 
