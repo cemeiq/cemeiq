@@ -13,7 +13,7 @@ Apart from my research journey as a machine learning PhD student at University o
 - I'm working on writing more on things related to data science [https://iqra.hashnode.dev/](https://iqra.hashnode.dev/)
 - 💬 Ask me about Machine Learning and Data Science.
 - ⚡ Fun fact: I love eating muffins and I love trying different kinds of tea. 
-- 📫 How to reach me: Email (iqra.muhammad@liverpool.ac.uk) [Twitter](https://twitter.com/giki_bla),
+- 📫 How to reach me: Email (iqra.muhammad@liverpool.ac.uk), [@giki_bla](https://twitter.com/giki_bla),
 --------------
 
 - Read my technical articles on [hashnode](https://iqra.hashnode.dev/)
