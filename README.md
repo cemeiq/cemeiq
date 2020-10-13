@@ -1,6 +1,6 @@
 ### Hi there, this is Iqra 👋
 
-Apart from my research joruney as a machine learning PhD student at University of Liverpool, I am a software engineer/Data Scientist. I like to build data science and machine learning side projects and write on anything related to anything Python and machine learning. <!--
+Apart from my research journey as a machine learning PhD student at University of Liverpool, I am a software engineer/Data Scientist. I like to build data science and machine learning side projects and write on anything related to Python and machine learning. <!--
 
 **Strong Languages**: Python 
   
@@ -10,6 +10,7 @@ Apart from my research joruney as a machine learning PhD student at University o
 - I'm working on publications related to the topic of knowledge graphs and document ranking.
 - :book: I'm currently reading the books: Data Science from scratch and invent your own games python.
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
+- I'm working on writing more on things related to data science [https://iqra.hashnode.dev/](https://iqra.hashnode.dev/)
 - 💬 Ask me about Machine Learning and Data Science.
 - ⚡ Fun fact: I love eating muffins and I love trying different kinds of tea. 
 - 📫 How to reach me: Email (iqra.muhammad@liverpool.ac.uk) [Twitter](https://twitter.com/giki_bla),
