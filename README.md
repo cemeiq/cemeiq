@@ -1,6 +1,6 @@
 ### Hi there, this is Iqra 👋
 
-Apart from my research journey as a machine learning PhD student at University of Liverpool, I am a software engineer/Data Scientist. I like to build data science and machine learning side projects and write on anything related to Python and machine learning. 
+Apart from my research journey as a machine learning PhD student at University of Liverpool, I am a python developer. I like to python side projects and write on anything related to Python and machine learning. 
 
 **Strong Languages**: Python 
   
