@@ -9,7 +9,6 @@ Apart from my research journey as a machine learning PhD student at University o
 - I'm working on publications related to the topic of knowledge graphs and document ranking.
 - :book: I'm currently reading the books: Data Science from scratch and invent your own games python.
 - I'm working on writing more on things related to data science [https://iqra.hashnode.dev/](https://iqra.hashnode.dev/)
-- ⚡ Fun fact: I love eating muffins and trying different kinds of tea. 
 - 📫 How to reach me: Email (iqra.muhammad@liverpool.ac.uk), Twitter: [@giki_bla](https://twitter.com/giki_bla).
 --------------
 
