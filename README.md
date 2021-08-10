@@ -1,6 +1,6 @@
 ### Hi there, this is Iqra 👋
 
-My coding interests in learning about Javascript and front-end frameworks like Reactjs.
+My coding interests are in learning about Javascript and front-end frameworks like Reactjs.
  
 **Hard Skills**: HTML, CSS/SASS, Bootstrap, JavaScript, jQuery, API/Axios, React, Redux, Git, Github, npm, Babel, Postman, Pacel.
 
