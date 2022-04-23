@@ -1,12 +1,11 @@
 ### Hi there, this is Iqra 👋
 
-My coding interests are in learning about Javascript and front-end frameworks like Reactjs.
- 
-**Hard Skills**: HTML, CSS/SASS, Bootstrap, JavaScript, jQuery, API/Axios, React, Redux, Git, Github, npm, Babel, Postman, Pacel.
+
+**Hard Skills**: HTML, CSS/SASS, Bootstrap, JavaScript, Python, API/Axios, React, Redux, Git, Github, 
 
 **Soft Skills**: Self-management, Communication, Problem-Solving, Teamwork, Flexibility.
 
-- 📫 How to reach me: Email (iqra.muhammad@liverpool.ac.uk), Twitter: [@giki_bla](https://twitter.com/giki_bla).
+- 📫 How to reach me: Email (iqra.muhammad@liverpool.ac.uk)
 --------------
 
 - Read my technical articles on [https://iqra.hashnode.dev/](https://iqra.hashnode.dev/)
