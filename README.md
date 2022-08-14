@@ -5,7 +5,7 @@
 
 **Soft Skills**: Self-management, Communication, Problem-Solving, Teamwork, Flexibility.
 
-- 📫 How to reach me: Email (iqra.muhammad@liverpool.ac.uk)
+- 📫 How to reach me: Email (iqra1804@gmail.com)
 --------------
 
 - Read my technical articles on [https://iqra.hashnode.dev/](https://iqra.hashnode.dev/)
